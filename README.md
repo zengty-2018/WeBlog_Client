@@ -1,7 +1,5 @@
 # Client
 
-博客[csdn](https://blog.csdn.net/Floating__dust/article/details/111489655)
-
 ## Build Setup
 
 ```
